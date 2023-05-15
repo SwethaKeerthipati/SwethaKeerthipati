@@ -1,6 +1,6 @@
   # Hey there I am Swetha!👋
   <p>
-  *Interested in creating Web pages!*
+  * Interested in creating Web pages! *
 
   </p>
  

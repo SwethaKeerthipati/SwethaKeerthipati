@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @SwethaKeerthipati
-- 👀 I’m interested in creating Web pages
-- 🌱 I’m currently learning HTML,CSS,JS
+  # Hey there I am Swetha!👋
+  I’m interested in creating Web pages 
+  I’m currently learning 
+  -<img src ="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg">
+  -<img src ="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg">
+  
 - 📫 How to reach me swethakeerthipati@gmail.com
 
 <!---

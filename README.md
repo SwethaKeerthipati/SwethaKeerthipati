@@ -13,7 +13,6 @@
 - :rocket: Always ready to collaborate for Dev Experiments
 - Reach me through "*swethakeerthipati@gmail.com*"
 
-Reach me through "*swethakeerthipati@gmail.com*"
 
 <!---
 SwethaKeerthipati/SwethaKeerthipati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

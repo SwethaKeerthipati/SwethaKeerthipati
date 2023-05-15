@@ -6,6 +6,7 @@
  
   <img src ="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
   <img src ="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="html" style="vertical-align:top; margin:4px">
+  <img src = "[https://www.w3schools.com/css/" target="_blan](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40">
   
  <h2 align="left">👨🏻‍💻 About Me:</h2>
 

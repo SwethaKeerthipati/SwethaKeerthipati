@@ -21,8 +21,7 @@
 - :rocket: Always ready to collaborate for Dev Experiments
 
 <h2 align="left">:heart: Let's get connected:</h2>
-
-<a href="https://www.linkedin.com/in/swetha-keerthipati/> Linkedin </a>
+Reach me out through : swethakeerthipati@gmail.com
          
 
 

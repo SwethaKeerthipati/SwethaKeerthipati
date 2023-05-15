@@ -1,7 +1,7 @@
   # Hey there I am Swetha!👋
   <p>
   I’m interested in creating Web pages!
-  <img src="">
+
   </p>
  
   <img src ="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">

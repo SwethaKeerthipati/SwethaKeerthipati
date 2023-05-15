@@ -19,6 +19,8 @@
 
 - :computer: I am currently exploring web applications
 - :rocket: Always ready to collaborate for Dev Experiments
+
+<h2 align="left">:heart: Let's get connected:</h2>
 - Reach me through "*swethakeerthipati@gmail.com*"
 
 

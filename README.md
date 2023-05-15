@@ -1,6 +1,9 @@
   # Hey there I am Swetha!👋
   <p>
-  * Interested in creating Web pages! *
+  Interested in creating Web pages!
+  
+  <br>
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0CfShNOf_Cy93Lzq7XvICV&ust=1684237649152000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJDnjKig9_4CFQAAAAAdAAAAABAE" alt="Coder GIF" width="500">
 
   </p>
  

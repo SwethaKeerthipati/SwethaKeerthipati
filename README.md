@@ -22,7 +22,7 @@
 
 <h2 align="left">:heart: Let's get connected:</h2>
 <br>
-Reach me out through : swethakeerthipati@gmail.com
+Reach me out through : [swethakeerthipati@gmail.com](url)
          
 
 

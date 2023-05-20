@@ -1,13 +1,13 @@
 <h1> 👨🏻‍💻 Hey there ,I am Swetha Keerthipati</h1>
 <div align="center">
-<img src="https://camo.githubusercontent.com/ea9b334cd3eb02a9e89ea74efee992125a0de243b85f27153f03e166af03718c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f524b354b443655635570417439327a5a76742f67697068792e676966" align="center" style="width: 100%" />
+<img src="https://camo.githubusercontent.com/ea9b334cd3eb02a9e89ea74efee992125a0de243b85f27153f03e166af03718c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f524b354b443655635570417439327a5a76742f67697068792e676966" align="center" style="width: 50%" />
 </div>  
   
 
-### <div align="center">I'm passionate about understanding web development 👨‍💻 and play with the code.</div>  
+### <div>I'm passionate about understanding web development 👨‍💻 and play with the code.</div>  
   
 
-- 🌱 I’m currently learning HTML,CSS,JS and React  
+- 🌱 I’m currently learning HTML,CSS,JS and React.
   
 
 - ⚡ Fun fact: I use tabs over spaces  
@@ -42,8 +42,6 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 </div>
-
-</td><td valign="top" width="33%">
 
 
 

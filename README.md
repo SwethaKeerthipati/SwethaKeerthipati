@@ -10,7 +10,6 @@
 - 🌱 I’m currently learning HTML,CSS,JS and React.
   
 
-- ⚡ Fun fact: I use tabs over spaces  
   
 
 <br/>  

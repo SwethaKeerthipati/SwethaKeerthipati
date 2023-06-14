@@ -1,7 +1,7 @@
 <h1> 👨🏻‍💻 Hey there ,I am Swetha Keerthipati</h1>
 <div align="center">
 <img src="https://media.tenor.com/CzdMW7wnLn8AAAAC/coding.gif" align="center" width: 50%" />
-  <img src="https://media.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif"  width:50% />
+  <img src="https://media.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif" align ="center" width:50% />
 </div>  
   
 

@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Swetha Keerthipati</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!"/>
+</p>
+
+<h1 align="center">I'm Swetha Keerthipati</h1>
 <h3 align="center">Passionate about learning web development and discovering the amazing things I can create with code.</h3>
 <img src="https://media.tenor.com/-6m2vqRjKDEAAAAi/geek-girl.gif" alt="Girl in a jacket" width="300" height="300" align="right" display="inline" >
 
@@ -26,3 +30,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swethakeerthipati&show_icons=true&locale=en&theme=tokyonight" alt="swethakeerthipati" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swethakeerthipati&theme=tokyonight" alt="swethakeerthipati" /></p>
+
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient"/>
+</p>

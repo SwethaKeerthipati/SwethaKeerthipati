@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Swetha Keerthipati</h1>
 <h3 align="center">Passionate about learning web development and discovering the amazing things I can create with code.</h3>
-<img src="https://media.tenor.com/I3RjM4xQO0kAAAAi/monitors-typing.gif" align="center" width: 50%" />
+<img src="https://media.tenor.com/I3RjM4xQO0kAAAAi/monitors-typing.gif" align="right" width: 50%" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swethakeerthipati&label=Profile%20views&color=0e75b6&style=flat" alt="swethakeerthipati" /> </p>
 

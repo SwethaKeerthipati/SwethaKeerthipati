@@ -21,3 +21,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swethakeerthipati&show_icons=true&locale=en&layout=compact" alt="swethakeerthipati" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swethakeerthipati&show_icons=true&locale=en" alt="swethakeerthipati" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swethakeerthipati&" alt="swetha" /></p>

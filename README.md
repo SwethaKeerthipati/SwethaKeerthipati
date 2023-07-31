@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swethakeerthipati&label=Profile%20views&color=0e75b6&style=flat" alt="swethakeerthipati" /> </p>
 
-- 🌱 I’m currently learning **React,MongoDB**
+- 🌱 I’m currently learning **React,MongoDB,TailwindCSS**
 
 - 💬 Ask me about **HTML,CSS,JavaScript**
 

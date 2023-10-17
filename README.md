@@ -6,8 +6,6 @@
 <h3 align="center">Passionate about learning web development and discovering the amazing things I can create with code.</h3>
 <img src="https://media.tenor.com/-6m2vqRjKDEAAAAi/geek-girl.gif" alt="Girl in a jacket" width="300" height="300" align="right" display="inline" >
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=swethakeerthipati&label=Profile%20views&color=0e75b6&style=flat" alt="swethakeerthipati" /> </p>
-
 
 <!-- Profile Views -->
 <p align="left">
